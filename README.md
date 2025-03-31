@@ -65,7 +65,7 @@ Happy Coding! 💻✨
             <tr>
                 <td>Linda Ayuma</td>
                 <td>Kasarani ICIPE Road</td>
-                <td>0114054527</td>
+                <td>0114954527</td>
                 <td>lindaayuma01@gmail.com</td>
             </tr>
             <tr>
